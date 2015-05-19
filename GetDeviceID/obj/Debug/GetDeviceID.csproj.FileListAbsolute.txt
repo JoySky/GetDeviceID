@@ -1,0 +1,8 @@
+D:\Projects\WBP\GetDeviceID\GetDeviceID\bin\Debug\GetDeviceID.exe
+D:\Projects\WBP\GetDeviceID\GetDeviceID\bin\Debug\GetDeviceID.pdb
+D:\Projects\WBP\GetDeviceID\GetDeviceID\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\WBP\GetDeviceID\GetDeviceID\obj\Debug\GetDeviceID.Form1.resources
+D:\Projects\WBP\GetDeviceID\GetDeviceID\obj\Debug\GetDeviceID.Properties.Resources.resources
+D:\Projects\WBP\GetDeviceID\GetDeviceID\obj\Debug\GetDeviceID.csproj.GenerateResource.Cache
+D:\Projects\WBP\GetDeviceID\GetDeviceID\obj\Debug\GetDeviceID.exe
+D:\Projects\WBP\GetDeviceID\GetDeviceID\obj\Debug\GetDeviceID.pdb
